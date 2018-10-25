@@ -17,10 +17,12 @@ HIGHLIGHT MAKER를 통해 시청자의 표정을 인식하여 로그를 생성�
  1. 얼굴 인식
    > 얼굴 전체를 인식한다
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/00_faceDetection.png)
+  
  2. 하관 인식
     > 얼굴 전체의 범위에서 미소를 인식할 경우 눈, 광대등의 위치에서 미소를 오검출하는 경우가 있어  하관을 인식
 
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/01_faceDetection.png)
+ 
  3. 미소 인식
     > 하관의 범위내에서 미소를 인식한다. 미소가 인식될 경우 로그를 기록한다.
 
