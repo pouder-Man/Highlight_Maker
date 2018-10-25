@@ -30,8 +30,11 @@ HIGHLIGHT MAKER를 통해 시청자의 표정을 인식하여 로그를 생성�
 ## 동영상 편집
 > 미소 인식 로그를 기반으로 ffmpeg을 사용하여 동여상을 편집한다.
  1. 영상 재생
+ 
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/04_videoPlayProcess.png)
+ 
  2. 영상 편집
+ 
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/05_videoEditProcess.png)
 
 
